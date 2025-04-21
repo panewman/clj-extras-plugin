@@ -1,6 +1,9 @@
 # clojure-extras-plugin Changelog
 
 ## [Unreleased]
+- Upgrade plugin for IJ 2025.1
+
+## 0.8.2
 - Fix deserialization failure
 
 ## 0.8.1
